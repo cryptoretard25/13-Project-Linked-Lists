@@ -22,5 +22,5 @@
   <li>removeAt(index) that removes the node at the given index.</li>
 </ol>
 <p>
-  <h4>Extra Credit Tip:</h4> When you insert or remove a node, consider how it will affect the existing nodes. Some of the nodes will need their nextNode link updated.
+  <b>Extra Credit Tip:</b> When you insert or remove a node, consider how it will affect the existing nodes. Some of the nodes will need their nextNode link updated.
 </p>
